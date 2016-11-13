@@ -1,4 +1,6 @@
 # JavaChallenge
+The solution I created for the given exercise consists of a Java standalone Jetty server, that serves requests on port 8080 following the instructions provided below.
+The textual data format chosen to represent the Purchase model objects was the JSON format.
 
 ## Prerequisites
 * JDK 8
